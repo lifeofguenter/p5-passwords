@@ -41,11 +41,11 @@ perldoc command.
 
 You can also look for information at:
 
-    Github (report bugs here)
-        https://github.com/lifeofguenter/p5-passwords
+* Github (report bugs here)
+  https://github.com/lifeofguenter/p5-passwords
 
-    Authors Website
-        http://www.perlhipster.com/p5-passwords
+* Authors Website
+  http://www.perlhipster.com/p5-passwords
         
 DEPENDENCIES
 ------------
